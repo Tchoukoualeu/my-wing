@@ -1,0 +1,1581 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GalleryFilter component It shows that Section select changes its value 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Hot
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="hot"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-disabled="true"
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={null}
+            role="button"
+            tabIndex={null}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3 Mui-disabled"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop Mui-disabled"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={true}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked PrivateSwitchBase-disabled-6 Mui-disabled Mui-disabled Mui-disabled"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={true}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label Mui-disabled MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;
+
+exports[`GalleryFilter component It shows that Section select changes its value 2`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Hot
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="hot"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-disabled="true"
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={null}
+            role="button"
+            tabIndex={null}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3 Mui-disabled"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop Mui-disabled"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={true}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked PrivateSwitchBase-disabled-6 Mui-disabled Mui-disabled Mui-disabled"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={true}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label Mui-disabled MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;
+
+exports[`GalleryFilter component It shows that Viral swinch changes its value 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            User
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="user"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-disabled="true"
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={null}
+            role="button"
+            tabIndex={null}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3 Mui-disabled"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={false}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;
+
+exports[`GalleryFilter component It shows that Viral swinch changes its value 2`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            User
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="user"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-disabled="true"
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={null}
+            role="button"
+            tabIndex={null}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3 Mui-disabled"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={false}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;
+
+exports[`GalleryFilter component Matches the snapshot for GalleryFilter Section Hot 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Hot
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="hot"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-disabled="true"
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={null}
+            role="button"
+            tabIndex={null}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3 Mui-disabled"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop Mui-disabled"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={true}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked PrivateSwitchBase-disabled-6 Mui-disabled Mui-disabled Mui-disabled"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={true}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label Mui-disabled MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;
+
+exports[`GalleryFilter component Matches the snapshot for GalleryFilter Section Top and Sort Rising 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Top
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="top"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop Mui-disabled"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={true}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked PrivateSwitchBase-disabled-6 Mui-disabled Mui-disabled Mui-disabled"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={true}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label Mui-disabled MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;
+
+exports[`GalleryFilter component Matches the snapshot for GalleryFilter Section User 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+    >
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="section-label"
+        >
+          Section
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="section-label mui-component-select-section"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-section"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            User
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="section"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="user"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink={true}
+          id="sort-label"
+        >
+          Sort
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="sort-label mui-component-select-sort"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-sort"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Viral
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="sort"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="viral"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <div
+        className="MuiFormControl-root makeStyles-formControl-2"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-3 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+          data-shrink={true}
+          id="window-label"
+        >
+          Window
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <div
+            aria-disabled="true"
+            aria-haspopup="listbox"
+            aria-labelledby="window-label mui-component-select-window"
+            className="MuiSelect-root makeStyles-whiteColor-3 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+            id="mui-component-select-window"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={null}
+            role="button"
+            tabIndex={null}
+          >
+            Day
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            name="window"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value="day"
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-3 Mui-disabled"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <hr
+        className="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+      />
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop"
+      >
+        <span
+          className="MuiSwitch-root MuiSwitch-sizeSmall"
+        >
+          <span
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                checked={true}
+                className="PrivateSwitchBase-input-7 MuiSwitch-input"
+                disabled={false}
+                name="showViral"
+                onChange={[Function]}
+                type="checkbox"
+                value="showViral"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          Viral
+        </span>
+      </label>
+    </div>
+  </header>,
+  <div
+    className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+  />,
+]
+`;

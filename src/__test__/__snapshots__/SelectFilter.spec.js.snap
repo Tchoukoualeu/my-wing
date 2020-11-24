@@ -1,0 +1,637 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectFilter component Matches the snapshot for Sort 1`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="sort-label"
+  >
+    Sort
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="sort-label mui-component-select-sort"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-sort"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Viral
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="sort"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="viral"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Sort 2`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="sort-label"
+  >
+    Sort
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="sort-label mui-component-select-sort"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-sort"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Top
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="sort"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="top"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Sort 3`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="sort-label"
+  >
+    Sort
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="sort-label mui-component-select-sort"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-sort"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Time
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="sort"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="time"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Sort 4`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="sort-label"
+  >
+    Sort
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="sort-label mui-component-select-sort"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-sort"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Rising
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="sort"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="rising"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Window 1`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="window-label"
+  >
+    Window
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="window-label mui-component-select-window"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-window"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Day
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="window"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="day"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Window 2`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="window-label"
+  >
+    Window
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="window-label mui-component-select-window"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-window"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Week
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="window"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="week"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Window 3`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="window-label"
+  >
+    Window
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="window-label mui-component-select-window"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-window"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Month
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="window"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="month"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Window 4`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="window-label"
+  >
+    Window
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="window-label mui-component-select-window"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-window"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Year
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="window"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="year"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshot for Window 5`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="window-label"
+  >
+    Window
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="window-label mui-component-select-window"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-window"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      All
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="window"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="all"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshots for Section 1`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="section-label"
+  >
+    Section
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="section-label mui-component-select-section"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-section"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Hot
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="section"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="hot"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshots for Section 2`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="section-label"
+  >
+    Section
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="section-label mui-component-select-section"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-section"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Top
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="section"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="top"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`SelectFilter component Matches the snapshots for Section 3`] = `
+<div
+  className="MuiFormControl-root makeStyles-formControl-1"
+>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-2 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+    data-shrink={true}
+    id="section-label"
+  >
+    Section
+  </label>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <div
+      aria-haspopup="listbox"
+      aria-labelledby="section-label mui-component-select-section"
+      className="MuiSelect-root makeStyles-whiteColor-2 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+      id="mui-component-select-section"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      User
+    </div>
+    <input
+      aria-hidden={true}
+      className="MuiSelect-nativeInput"
+      name="section"
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value="user"
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</div>
+`;

@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component Matches the snapshots for App 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="makeStyles-root-1"
+    />
+    <header
+      class="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary mui-fixed MuiPaper-elevation4"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-regular makeStyles-root-2 MuiToolbar-gutters"
+      >
+        <div
+          class="MuiFormControl-root makeStyles-formControl-3"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-4 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+            data-shrink="true"
+            id="section-label"
+          >
+            Section
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="section-label mui-component-select-section"
+              class="MuiSelect-root makeStyles-whiteColor-4 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="mui-component-select-section"
+              role="button"
+              tabindex="0"
+            >
+              Hot
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="section"
+              tabindex="-1"
+              value="hot"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-4"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+        />
+        <div
+          class="MuiFormControl-root makeStyles-formControl-3"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-4 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+            data-shrink="true"
+            id="sort-label"
+          >
+            Sort
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="sort-label mui-component-select-sort"
+              class="MuiSelect-root makeStyles-whiteColor-4 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="mui-component-select-sort"
+              role="button"
+              tabindex="0"
+            >
+              Viral
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="sort"
+              tabindex="-1"
+              value="viral"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-4"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+        />
+        <div
+          class="MuiFormControl-root makeStyles-formControl-3"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root makeStyles-whiteColor-4 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink Mui-disabled Mui-disabled MuiFormLabel-filled"
+            data-shrink="true"
+            id="window-label"
+          >
+            Window
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline Mui-disabled Mui-disabled MuiInputBase-formControl MuiInput-formControl"
+          >
+            <div
+              aria-disabled="true"
+              aria-haspopup="listbox"
+              aria-labelledby="window-label mui-component-select-window"
+              class="MuiSelect-root makeStyles-whiteColor-4 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input Mui-disabled Mui-disabled Mui-disabled"
+              id="mui-component-select-window"
+              role="button"
+            >
+              Day
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="window"
+              tabindex="-1"
+              value="day"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSelect-icon makeStyles-whiteColor-4 Mui-disabled"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-flexItem MuiDivider-vertical"
+        />
+        <label
+          class="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop Mui-disabled"
+        >
+          <span
+            class="MuiSwitch-root MuiSwitch-sizeSmall"
+          >
+            <span
+              aria-disabled="true"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-5 MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-checked-6 Mui-checked PrivateSwitchBase-disabled-7 Mui-disabled Mui-disabled Mui-disabled"
+              tabindex="-1"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  checked=""
+                  class="PrivateSwitchBase-input-8 MuiSwitch-input"
+                  disabled=""
+                  name="showViral"
+                  type="checkbox"
+                  value="showViral"
+                />
+                <span
+                  class="MuiSwitch-thumb"
+                />
+              </span>
+            </span>
+            <span
+              class="MuiSwitch-track"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label Mui-disabled MuiTypography-body1"
+          >
+            Viral
+          </span>
+        </label>
+      </div>
+    </header>
+    <div
+      class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    />
+    <div
+      aria-hidden="true"
+      class="MuiBackdrop-root makeStyles-backdrop-9"
+      style="opacity: 1; webkit-transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="MuiCircularProgress-root MuiCircularProgress-indeterminate"
+        role="progressbar"
+        style="width: 40px; height: 40px;"
+      >
+        <svg
+          class="MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx="44"
+            cy="44"
+            fill="none"
+            r="20.2"
+            stroke-width="3.6"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,380 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GalleryGrid component Matches the snapshots for GalleryGrid 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <ul
+    className="MuiGridList-root"
+    style={
+      Object {
+        "margin": -2,
+      }
+    }
+  >
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "50%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title"
+          src="link"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "50%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title1"
+          src="link1.gif"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title1
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "50%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title"
+          src="link1.gif"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "50%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title2"
+          src="link2.gif"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title2
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "50%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title1"
+          src="link1_mp4"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title1
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`GalleryGrid component Matches the snapshots for GalleryGrid with different screen width 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <ul
+    className="MuiGridList-root"
+    style={
+      Object {
+        "margin": -2,
+      }
+    }
+  >
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "50%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title"
+          src="link"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`GalleryGrid component Matches the snapshots for GalleryGrid with different screen width 2`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <ul
+    className="MuiGridList-root"
+    style={
+      Object {
+        "margin": -2,
+      }
+    }
+  >
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 184,
+          "padding": 2,
+          "width": "33.333333333333336%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title"
+          src="link"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`GalleryGrid component Matches the snapshots for GalleryGrid with different screen width 3`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <ul
+    className="MuiGridList-root"
+    style={
+      Object {
+        "margin": -10,
+      }
+    }
+  >
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 200,
+          "padding": 10,
+          "width": "25%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title"
+          src="link"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`GalleryGrid component Matches the snapshots for GalleryGrid with different screen width 4`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <ul
+    className="MuiGridList-root"
+    style={
+      Object {
+        "margin": -10,
+      }
+    }
+  >
+    <li
+      className="MuiGridListTile-root"
+      onClick={[Function]}
+      style={
+        Object {
+          "height": 200,
+          "padding": 10,
+          "width": "20%",
+        }
+      }
+    >
+      <div
+        className="MuiGridListTile-tile"
+      >
+        <img
+          alt="title"
+          src="link"
+        />
+        <div
+          className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom"
+        >
+          <div
+            className="MuiGridListTileBar-titleWrap"
+          >
+            <div
+              className="MuiGridListTileBar-title"
+            >
+              title
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`GalleryGrid component Matches the snapshots for GalleryGrid with empty images 1`] = `null`;
