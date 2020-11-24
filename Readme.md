@@ -48,4 +48,4 @@ The backend raw `code` and the `page` can be found here:
 `yarn test` or `npm test`
 
 ## Link to the live App
-[my-wing](https://tchoukoualeu.github.io/my-wing/) (*Could take few minute to load, glitch.com puts unused apps to sleep*)
+[my-wing](https://tchoukoualeu.github.io/my-wing/) (*Could take few minutes to load, glitch.com puts unused apps to sleep*)
