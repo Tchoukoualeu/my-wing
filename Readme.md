@@ -1,5 +1,5 @@
 ## Backend
-Fetching data is hoocked to a node backend hosted on `Glitch.com`, the code is the following:
+Fetching data is hoocked to a nodejs backend hosted on `Glitch.com`, the code is the following:
 
 ```javascript
 var express = require('express');
@@ -32,13 +32,13 @@ router.post("/", (req, res) => {
 module.exports = router;
 ```
 
-The backend raw code and the page can be found here:
-- [code](https://glitch.com/edit/#!/euro-aris?path=routes%2Fimgur.js%3A29%3A24)
+The backend raw `code` and the `page` can be found here:
+- [Code](https://glitch.com/edit/#!/euro-aris?path=routes%2Fimgur.js%3A29%3A24)
 - [Backend](https://euro-aris.glitch.me/)
 
 ## Front end
 
-### installing dependencies
+### Installing dependencies
 `yarn install` or `npm install`
 
 ### Running
@@ -48,4 +48,4 @@ The backend raw code and the page can be found here:
 `yarn test` or `npm test`
 
 ## Link to the live App
-[my-wing](https://tchoukoualeu.github.io/my-wing/)
+[my-wing](https://tchoukoualeu.github.io/my-wing/) (*Could take few minute to load, glitch.com puts unused apps to sleep*)
